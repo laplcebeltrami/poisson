@@ -2,7 +2,7 @@
 (C) 2026 Moo K. Chung
 University of Wisconsin-Madison
 
-Here is the numerical implementation of Poisson Flow Model published in 
+Here is the numerical implementation of Poisson Flow Model explained in 
 
 Chung, M.K., Maccotta, L., Struck, A. 2026 [Geometry-Driven Poisson Flow Model of Cortical Manifolds](https://arxiv.org/pdf/2606.08404), arXiv:2606.08404. 20 pages of details, theories, additional results and extended discussion not in EMBC conference paper. 
 
