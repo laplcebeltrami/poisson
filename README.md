@@ -2,6 +2,7 @@
 (C) 2026 Moo K. Chung
 University of Wisconsin-Madison
 
+Core idea of method is given in the presentation [slides](https://github.com/laplcebeltrami/poisson).
 Here is the numerical implementation of Poisson Flow Model explained in 
 
 Chung, M.K., Maccotta, L., Struck, A. 2026 [Poisson flow of cortical folding in juvenile mycrlonic epilepsy](https://arxiv.org/pdf/2606.08404), arXiv:2606.08404. 23 pages of details, theories, additional results. Run the matlab live script SCRIPT-poisson.mlx. 
